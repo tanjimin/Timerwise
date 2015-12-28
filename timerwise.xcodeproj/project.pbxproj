@@ -503,6 +503,7 @@
 		333A98F11C1D46C200DB6B7B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = Developer;
 				TargetAttributes = {
@@ -790,9 +791,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Jimin Tan (7LAWUJ7DER)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Jimin Tan (7LAWUJ7DER)";
 				INFOPLIST_FILE = timerwise/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "5ea9a78f-ca58-4c22-893f-0e465c581ffb";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -803,9 +806,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Jimin Tan (7LAWUJ7DER)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Jimin Tan (7LAWUJ7DER)";
 				INFOPLIST_FILE = timerwise/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "5ea9a78f-ca58-4c22-893f-0e465c581ffb";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
