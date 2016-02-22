@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		331446A71C3396D7008E0157 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 331446A61C3396D7008E0157 /* Info.plist */; };
 		333A99181C1D46C200DB6B7B /* timerwiseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333A99171C1D46C200DB6B7B /* timerwiseTests.swift */; };
 		333A99931C1D474A00DB6B7B /* Analysis@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 333A99221C1D474A00DB6B7B /* Analysis@2x.png */; };
 		333A99941C1D474A00DB6B7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333A99231C1D474A00DB6B7B /* AppDelegate.swift */; };
@@ -95,7 +96,6 @@
 		333A99E91C1D474A00DB6B7B /* Done@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 333A99821C1D474A00DB6B7B /* Done@2x.png */; };
 		333A99EA1C1D474A00DB6B7B /* goBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 333A99831C1D474A00DB6B7B /* goBack@2x.png */; };
 		333A99EB1C1D474A00DB6B7B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 333A99841C1D474A00DB6B7B /* Images.xcassets */; };
-		333A99EC1C1D474A00DB6B7B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 333A99851C1D474A00DB6B7B /* Info.plist */; };
 		333A99ED1C1D474A00DB6B7B /* NewTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333A99861C1D474A00DB6B7B /* NewTaskViewController.swift */; };
 		333A99EE1C1D474A00DB6B7B /* rectButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 333A99871C1D474A00DB6B7B /* rectButton@2x.png */; };
 		333A99EF1C1D474A00DB6B7B /* roundButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 333A99881C1D474A00DB6B7B /* roundButton@2x.png */; };
@@ -121,6 +121,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		331446A61C3396D7008E0157 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		333A98F91C1D46C200DB6B7B /* timerwise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timerwise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		333A99111C1D46C200DB6B7B /* timerwiseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = timerwiseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		333A99161C1D46C200DB6B7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -212,7 +213,6 @@
 		333A99821C1D474A00DB6B7B /* Done@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Done@2x.png"; sourceTree = "<group>"; };
 		333A99831C1D474A00DB6B7B /* goBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "goBack@2x.png"; sourceTree = "<group>"; };
 		333A99841C1D474A00DB6B7B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		333A99851C1D474A00DB6B7B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		333A99861C1D474A00DB6B7B /* NewTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewTaskViewController.swift; sourceTree = "<group>"; };
 		333A99871C1D474A00DB6B7B /* rectButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rectButton@2x.png"; sourceTree = "<group>"; };
 		333A99881C1D474A00DB6B7B /* roundButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "roundButton@2x.png"; sourceTree = "<group>"; };
@@ -297,7 +297,7 @@
 				333A99251C1D474A00DB6B7B /* LaunchScreen.xib */,
 				333A99841C1D474A00DB6B7B /* Images.xcassets */,
 				333A99911C1D474A00DB6B7B /* Timerwise.xcdatamodeld */,
-				333A99851C1D474A00DB6B7B /* Info.plist */,
+				331446A61C3396D7008E0157 /* Info.plist */,
 				33E5FA341C2F57510014FCF1 /* Icons */,
 				333A992A1C1D474A00DB6B7B /* Charts */,
 			);
@@ -517,7 +517,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 333A98F41C1D46C200DB6B7B /* Build configuration list for PBXProject "timerwise" */;
+			buildConfigurationList = 333A98F41C1D46C200DB6B7B /* Build configuration list for PBXProject "Timerwise" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -547,11 +547,11 @@
 				333A99961C1D474A00DB6B7B /* LaunchScreen.xib in Resources */,
 				333A99EA1C1D474A00DB6B7B /* goBack@2x.png in Resources */,
 				333A99EB1C1D474A00DB6B7B /* Images.xcassets in Resources */,
+				331446A71C3396D7008E0157 /* Info.plist in Resources */,
 				333A99F21C1D474A00DB6B7B /* smallGreenDots@2x.png in Resources */,
 				333A99EE1C1D474A00DB6B7B /* rectButton@2x.png in Resources */,
 				333A99E51C1D474A00DB6B7B /* countdownIcon@2x.png in Resources */,
 				333A99971C1D474A00DB6B7B /* Main.storyboard in Resources */,
-				333A99EC1C1D474A00DB6B7B /* Info.plist in Resources */,
 				333A99981C1D474A00DB6B7B /* Cancel@2x.png in Resources */,
 				333A99EF1C1D474A00DB6B7B /* roundButton@2x.png in Resources */,
 				333A99E81C1D474A00DB6B7B /* countupIcon@2x.png in Resources */,
@@ -736,7 +736,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PROVISIONING_PROFILE = "5ea9a78f-ca58-4c22-893f-0e465c581ffb";
@@ -776,7 +776,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PROVISIONING_PROFILE = "5ea9a78f-ca58-4c22-893f-0e465c581ffb";
 				SDKROOT = iphoneos;
@@ -788,13 +788,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Jimin Tan (7LAWUJ7DER)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Jimin Tan (7LAWUJ7DER)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = timerwise/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "5ea9a78f-ca58-4c22-893f-0e465c581ffb";
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -803,13 +803,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Jimin Tan (7LAWUJ7DER)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Jimin Tan (7LAWUJ7DER)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = timerwise/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "5ea9a78f-ca58-4c22-893f-0e465c581ffb";
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -851,7 +851,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		333A98F41C1D46C200DB6B7B /* Build configuration list for PBXProject "timerwise" */ = {
+		333A98F41C1D46C200DB6B7B /* Build configuration list for PBXProject "Timerwise" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				333A99191C1D46C200DB6B7B /* Debug */,

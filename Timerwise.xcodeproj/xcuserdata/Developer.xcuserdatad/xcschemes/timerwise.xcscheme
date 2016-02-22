@@ -17,7 +17,7 @@
                BlueprintIdentifier = "333A98F81C1D46C200DB6B7B"
                BuildableName = "timerwise.app"
                BlueprintName = "timerwise"
-               ReferencedContainer = "container:timerwise.xcodeproj">
+               ReferencedContainer = "container:Timerwise.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "333A99101C1D46C200DB6B7B"
                BuildableName = "timerwiseTests.xctest"
                BlueprintName = "timerwiseTests"
-               ReferencedContainer = "container:timerwise.xcodeproj">
+               ReferencedContainer = "container:Timerwise.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "333A99101C1D46C200DB6B7B"
                BuildableName = "timerwiseTests.xctest"
                BlueprintName = "timerwiseTests"
-               ReferencedContainer = "container:timerwise.xcodeproj">
+               ReferencedContainer = "container:Timerwise.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -59,7 +59,7 @@
             BlueprintIdentifier = "333A98F81C1D46C200DB6B7B"
             BuildableName = "timerwise.app"
             BlueprintName = "timerwise"
-            ReferencedContainer = "container:timerwise.xcodeproj">
+            ReferencedContainer = "container:Timerwise.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -79,7 +79,7 @@
             BlueprintIdentifier = "333A98F81C1D46C200DB6B7B"
             BuildableName = "timerwise.app"
             BlueprintName = "timerwise"
-            ReferencedContainer = "container:timerwise.xcodeproj">
+            ReferencedContainer = "container:Timerwise.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -98,7 +98,7 @@
             BlueprintIdentifier = "333A98F81C1D46C200DB6B7B"
             BuildableName = "timerwise.app"
             BlueprintName = "timerwise"
-            ReferencedContainer = "container:timerwise.xcodeproj">
+            ReferencedContainer = "container:Timerwise.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -29,6 +29,8 @@ class StatsViewController: UIViewController, ChartViewDelegate, UITableViewDeleg
     
     //MARK: - ViewContoller Lifecycle
     
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         infoTaskTableView.delegate = self
