@@ -1,1 +1,1 @@
-
+Screen shots taken on a 4.7 inch screen iPhone.
