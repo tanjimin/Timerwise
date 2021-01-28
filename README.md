@@ -11,3 +11,7 @@ Features:
 
 If you have any question, contact me at:
 devjimin@outlook.com
+
+|Main screen|Counter setup|Counting|Stats|
+| :------: | :------: | :------: | :------: |
+|![main screen](screenshots/0x0ss.jpg)|![Counter setup](screenshots/0x0ss-3.jpg)|![Counting](screenshots/0x0ss-2.jpg)|![Stats](screenshots/0x0ss-1.jpg)
